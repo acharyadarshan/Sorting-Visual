@@ -1,4 +1,4 @@
-### Sorting Visualization ◼️◻️🔶🔷🔹🔸⬜⬛🔹
+### Quick Sort Visualization
 
 Quick sort is the fastest searching algorithm with average time commplexity of O(n*log(n)) and space complexity of O(n).
 
